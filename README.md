@@ -8,3 +8,6 @@
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/id804499107)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/artyom.khabarov?igsh=b2t3d24zYXFxdHA%3D&utm_source=qr)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Temchiki
+a&show_icons=true&theme=radical)
